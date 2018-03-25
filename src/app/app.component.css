@@ -1,0 +1,64 @@
+/* header {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    background-size:100% auto;
+    background-image:url('../assets/game-over.jpg');
+  }   */
+/* header{
+    background-image: url('../assets/gameLeoModificado.png')
+} */
+.AjustarColor{
+    color: white;
+}
+.AjustarIconFacebook{
+    font-size: 38px;
+    padding: 10px;
+}
+.TamañoIconSocial{
+    font-size: 35px;
+    padding: 9px;
+}
+.AjustarTamañoStores{
+    height: 91px;
+    width: 258px;
+}
+.paddingTextGameStore{
+    padding-top: 8px;
+    padding-bottom: 9px;
+}
+.centerText{
+    text-align: center;
+}
+.paddingImage{
+    padding: 2.5%;
+}
+.image100porcientoAlto{
+    height: 100%;
+}
+.Image100porciento{
+    width: 100%;
+}
+.imageGamer{
+    width: 100%;
+    /* opacity: 0.8; */
+    /* height: auto; */
+}
+.paddingCero{
+    padding: 0;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+.textWelcome{
+    color: white;
+    font-size: 45px;
+}
